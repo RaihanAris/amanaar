@@ -8,7 +8,7 @@ const About = () => {
     >
       <div
         className="w-full lg:w-1/2"
-        data-aos="fade-right"
+        data-aos="zoom-in"
         data-aos-duration="1000"
       >
         <h1 className="text-2xl text-center font-extrabold md:text-4xl">
@@ -39,7 +39,7 @@ const About = () => {
       </div>
       <div
         className="w-full lg:w-1/2"
-        data-aos="fade-left"
+        data-aos="zoom-in"
         data-aos-duration="1000"
       >
         <div className="flex justify-center mt-20 lg:mt-0 lg:pl-10">

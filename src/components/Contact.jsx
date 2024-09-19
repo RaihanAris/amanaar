@@ -40,7 +40,7 @@ const Contact = () => {
       <div className="flex flex-wrap items-center justify-center ">
         <div
           className="flex flex-col items-center justify-center h-full md:w-1/2"
-          data-aos="fade-right"
+          data-aos="zoom-in"
           data-aos-duration="1000"
         >
           <div>
@@ -68,7 +68,7 @@ const Contact = () => {
         </div>
         <div
           className="flex flex-col items-center justify-center h-full  md:w-1/2"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-duration="1000"
         >
           <form className="flex w-full flex-col gap-4 border-2 rounded-lg border-teal-500 px-5 py-5 lg:w-[70%]">
