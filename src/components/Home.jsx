@@ -16,9 +16,10 @@ const Home = () => {
           Your Partner for Beyond Business Growth in Indonesia
         </h1>
         <p className="text-sm text-white pt-4 text-center md:pt-6 md:text-lg">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea
-          praesentium distinctio commodi ipsa sit veritatis omnis quos obcaecati
-          illo consequatur.
+          Kami adalah mitra strategis yang siap membimbing bisnis Anda menuju
+          puncak kesuksesan dengan solusi inovatif dan wawasan yang mendalam.
+          Bersama kami, ubah tantangan menjadi peluang untuk pertumbuhan
+          berkelanjutan.
         </p>
       </div>
     </div>
