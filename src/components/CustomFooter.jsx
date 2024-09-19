@@ -33,9 +33,7 @@ const CustomFooter = () => {
               <Footer.Link href="#">
                 <i className="ri-whatsapp-line pr-2"></i>+62948205738923
               </Footer.Link>
-              <Footer.Link href="#">
-                <i className="ri-mail-line pr-2"></i>consultant@amaanaar.id
-              </Footer.Link>
+              <Footer.Link href="#">consultant@amaanaar.id</Footer.Link>
             </Footer.LinkGroup>
           </div>
           <div>
